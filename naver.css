@@ -1,0 +1,18 @@
+
+#header-center
+{
+  margin: 0 auto;
+  width: 1080px;
+  display: inline-block;
+}
+
+#header-search {
+  display: none;
+  
+}
+
+#header-search fieldset{
+  width: 520px;
+  display: inline-block;
+}
+
